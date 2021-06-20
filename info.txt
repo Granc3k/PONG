@@ -1,0 +1,8 @@
+vytvoření hry PONG
+
+je možné spustit na 2 způsoby
+1) 1v1 (mohou dva hráči; je třeba dodělat bug s mnoha inputynajednou)
+2) 1vAI (hráč proti samopohybujícímu se "paddlu")
+
+
+"graphics.py" soubor pomáhající s trvorbou graf. obsahu
